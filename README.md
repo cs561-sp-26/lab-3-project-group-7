@@ -5,7 +5,7 @@
 ## Team Members
 - Daniel Kish (Danielhk832)
 - Wei-Ying Huang (William-HuangWY)
-- Gerald Hendrix (ghendrix-git)
+- Name 3 (GitHub ID 3)
 - Name 4 (GitHub ID 4)
 - Name 5 (GitHub ID 5)
 
