@@ -21,3 +21,7 @@ added changes to the index.html
 
 ### Rebase Description (Delete if not applicable)
 In this branch, I rebased the `feature/mode_tabs_mode_actions_index_update` branch onto the `main` branch. The commit ID for this rebase is `56a12b`.
+
+### Cherry Pick Description (Delete if not applicable)
+In this branch, I cherry-picked the commit `1ea8e810dd5f95fc32e2174c79e1ab59eca77ce6` from the `feature/mode_tabs_mode_actions_index_update` branch into the `main` branch. The commit added scripts to index.html.
+

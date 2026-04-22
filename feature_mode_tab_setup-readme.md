@@ -21,5 +21,3 @@ created the modeTabs.js file and modeActions.js file. added the switchMode funct
 ### Merge Conflict Description (Delete if not applicable)
 In this branch, I encountered a merge conflict when merging the `feature/mode_tab_setup` branch into the `main` branch. The conflict occurred in the `README.md` file on lines 3-21. I resolved the conflict by keeping the changes from both branches and modifying the code to work together. The commit ID for this merge is `3fda6b0adbb252bd1a664450d2a646d91e6163be`.
 
-### Cherry Pick Description (Delete if not applicable)
-In this branch, I cherry-picked the commit `5678901` from the `feature/new-feature` branch into the `main` branch. The commit added a new feature to calculate speed score. I resolved any conflicts that arose during the cherry-pick process by modifying the code in the `speed_score.js` file to work with the changes made in the `main` branch.

@@ -22,28 +22,28 @@
 
 
 ## Merge Conflicts Resolved
-| Name | # MCs Resolved | Merged Branch
-| --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
-| Name 2 | 1 | `feature/new-feature`
-| Name 3 | 1 | `feature/new-feature`
-| Name 4 | 0 | `feature/new-feature`
-| Name 5 | 0 | `feature/new-feature`
+| Name        | # MCs Resolved | Merged Branch
+|-------------|----------------| ---------------
+| Daniel Kish | 1              | `feature/mode_tab_setup`
+| Name 2      | 1              | `feature/new-feature`
+| Name 3      | 1              | `feature/new-feature`
+| Name 4      | 0              | `feature/new-feature`
+| Name 5      | 0              | `feature/new-feature`
 
 ## Rebases
-| Name | # Rebases | Within Branch
-| --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
-| Name 2 | 1 | `feature/new-feature`
-| Name 3 | 1 | `feature/new-feature`
-| Name 4 | 0 | `feature/new-feature`
-| Name 5 | 0 | `feature/new-feature`
+| Name        | # Rebases | Within Branch
+|-------------|-----------| ---------------
+| Daniel Kish | 1         | `feature/mode_tabs_mode_actions_index_update`
+| Name 2      | 1         | `feature/new-feature`
+| Name 3      | 1         | `feature/new-feature`
+| Name 4      | 0         | `feature/new-feature`
+| Name 5      | 0         | `feature/new-feature`
 
 ## Cherry Picks
-| Name | # Cherry Picks | From Branch
-| --------- | ----------- | ---------------
-| Name 1 | 2 | `feature/new-feature`
-| Name 2 | 1 | `feature/new-feature`
-| Name 3 | 1 | `feature/new-feature`
-| Name 4 | 0 | `feature/new-feature`
-| Name 5 | 0 | `feature/new-feature`
+| Name        | # Cherry Picks | From Branch
+|-------------|----------------| ---------------
+| Daniel Kish | 1              | `feature/mode_tabs_mode_actions_index_update`
+| Name 2      | 1              | `feature/new-feature`
+| Name 3      | 1              | `feature/new-feature`
+| Name 4      | 0              | `feature/new-feature`
+| Name 5      | 0              | `feature/new-feature`
