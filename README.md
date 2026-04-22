@@ -1,32 +1,24 @@
-# CS 561 Lab 3: Branch `feature-side-menu`
+# CS 561 Lab 3: Branch `feature/tabs-style`
 
-## Team Members
-- Daniel Kish (Danielhk832)
-- Wei-Ying Huang (William-HuangWY)
-- Name 3 (GitHub ID 3)
-- Name 4 (GitHub ID 4)
-- Name 5 (GitHub ID 5)
+## Branch Author
+William Huang (William-HuangWY)
 
 ## Summary of Work Done in This Branch
-This branch adds the side menu feature to the SpeedScore application, including UI structure, styling, and interaction logic.
+This branch updates the styling related to the mode tabs UI in `style.css`, including adjustments to colors and visual presentation to improve consistency with the overall application theme.
 
-| Name | # Commits | # Lines Changed | Avg. Lines/Commit
-| --------- |-----------|-----------------|----
-| Name 1 | 3         | 80              | 26.67
-| Name 2 | 8         | 20              | 2.5
-| Name 3 | 5         | 10              | 2
-| Name 4 | 3         | 5               | 1.67
-| Name 5 | 2         | 2               | 1
-| **Totals** | **30**    | **87**          | **2.9**
+The changes include:
+- Applying updated styles for mode tab components (active/inactive states)
+- Modifying root CSS color variables to support the updated theme
+- Ensuring consistent visual behavior after integration with recent mode tab/action updates
+
+This branch is primarily focused on UI styling adjustments for the mode tab system.
 
 ## Commits
 
 | Commit ID | Commit Message | # Lines Changed |
 | --------- | -------------- | --------------- |
-| a1b2c3d | Add side menu HTML structure | ~40 |
-| b2c3d4e | Add side menu styles | ~60 |
-| c3d4e5f | Implement side menu toggle logic | ~80 |
-| d4e5f6g | Add keyboard navigation support | ~70 |
-| e5f6g7h | Fix missing CSS variable for menu width | ~10 |
+| (merge)   | Merge pull request #10 from feature/mode_tabs_mode_actions_index_update | - |
+| fe1c4cc83 | Apply style for mode tabs | ~10 |
+| 29ba339   | Change root colors in style.css | ~5 |
 
-### Total Commits Made in this Branch: 5
+### Total Commits Made in this Branch: 3
