@@ -8,9 +8,10 @@ added click handlers for modeActions
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
+| Commit ID | Commit Message                                                                      | # Lines Changed
+| --------- |-------------------------------------------------------------------------------------| ---------------
 | ba258141768eec66980e3b3c322ad4b0f90f56ca | added click handler , cancel button click handler and keyDownDialogFocused fucntion | +124
+| 482012fae53bfc423c588e56ece234f1949f619d | added scripts to index.html                                                         | +3
 
 
-### Total Commits Made in this Branch: 1
+### Total Commits Made in this Branch: 2
