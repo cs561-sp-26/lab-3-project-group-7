@@ -6,44 +6,34 @@
 - Daniel Kish (Danielhk832)
 - Wei-Ying Huang (William-HuangWY)
 - Name 3 (GitHub ID 3)
-- Name 4 (GitHub ID 4)
-- Name 5 (GitHub ID 5)
 
 ## Commits
 
-| Name        | # Commits | # Lines Changed | Avg. Lines/Commit
-|-------------|-----------|-----------------|----
-| Daniel Kish | 11        | 626             | 56.909
-| Name 2      | 8         | 20              | 2.5
-| Name 3      | 5         | 10              | 2
-| Name 4      | 3         | 5               | 1.67
-| Name 5      | 2         | 2               | 1
-| **Totals**  | **30**    | **87**          | **2.9**
+| Name           | # Commits | # Lines Changed | Avg. Lines/Commit
+|----------------|-----------|-----------------|----
+| Daniel Kish    | 11        | 626             | 56.909
+| Wei-Ying Huang | 12        | 387             | 32.25
+| Name 3         | 5         | 10              | 2
+| **Totals**     | **XX**    | **XXX**         | **XX**
 
 
 ## Merge Conflicts Resolved
-| Name        | # MCs Resolved | Merged Branch
-|-------------|----------------| ---------------
-| Daniel Kish | 1              | `feature/mode_tab_setup`
-| Name 2      | 1              | `feature/new-feature`
-| Name 3      | 1              | `feature/new-feature`
-| Name 4      | 0              | `feature/new-feature`
-| Name 5      | 0              | `feature/new-feature`
+| Name           | # MCs Resolved | Merged Branch
+|----------------|----------------| ---------------
+| Daniel Kish    | 1           | `feature/mode_tab_setup`
+| Wei-Ying Huang | 1           | `Apply style for mode tabs`
+| Name 3         | 1           | `feature/new-feature`
 
 ## Rebases
-| Name        | # Rebases | Within Branch
-|-------------|-----------| ---------------
-| Daniel Kish | 1         | `feature/mode_tabs_mode_actions_index_update`
-| Name 2      | 1         | `feature/new-feature`
-| Name 3      | 1         | `feature/new-feature`
-| Name 4      | 0         | `feature/new-feature`
-| Name 5      | 0         | `feature/new-feature`
+| Name           | # Rebases | Within Branch
+|----------------|-----------| ---------------
+| Daniel Kish    | 1         | `feature/mode_tabs_mode_actions_index_update`
+| Wei-Ying Huang | 1         | `feature/global-css-class`
+| Name 3         | 1         | `feature/new-feature`
 
 ## Cherry Picks
-| Name        | # Cherry Picks | From Branch
-|-------------|----------------| ---------------
-| Daniel Kish | 1              | `feature/mode_tabs_mode_actions_index_update`
-| Name 2      | 1              | `feature/new-feature`
-| Name 3      | 1              | `feature/new-feature`
-| Name 4      | 0              | `feature/new-feature`
-| Name 5      | 0              | `feature/new-feature`
+| Name           | # Cherry Picks | From Branch
+|----------------|----------------| ---------------
+| Daniel Kish    | 1              | `feature/mode_tabs_mode_actions_index_update`
+| Wei-Ying Huang | 1              | `Feature-side-menu`
+| Name 3         | 1              | `feature/new-feature`
