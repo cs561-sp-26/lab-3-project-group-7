@@ -1,25 +1,25 @@
-# CS 561 Lab 3: Branch `<<BRANCH NAME>>`
+# CS 561 Lab 3: Branch `feature/browser-history`
 
 ## Branch Author
-Author Name (GitHub ID)
+William Huang (William-HuangWY)
 
 ## Summary of Work Done in this Branch
-Insert a summary of the work done in this branch. This should include a description the new feature(s) added and any bugs fixed.
+Add browser history support using `window.js`.  
+This enables state restoration with `pushState` and `popstate`, allowing navigation between modes and dialogs using browser back/forward buttons.
 
 ## Commits
 
-| Commit ID | Commit Message | # Lines Changed
-| --------- | ----------- | ---------------
-| 1234567 | Added new feature to calculate speed score | 50
-| 2345678 | Fixed bug in speed score calculation | 20
+| Commit ID | Commit Message | # Lines Changed |
+|-----------|----------------|-----------------|
+| 4d0e43a6b | Add window.js for history state restoration and popstate handling | ~70 |
 
-### Total Commits Made in this Branch: xx
+### Total Commits Made in this Branch: 1
 
-### Merge Conflict Description (Delete if not applicable)
-Example: In this branch, I encountered a merge conflict when merging the `feature/new-feature` branch into the `main` branch. The conflict occurred in the `speed_score.js` file on line 42. I resolved the conflict by keeping the changes from both branches and modifying the code to work together. The commit ID for this merge is `3456789`.
+### Merge Conflict Description
+Not applicable.
 
-### Rebase Description (Delete if not applicable)
-Example: In this branch, I rebased the `feature/new-feature` branch onto the `main` branch. The commit ID for this rebase is `4567890`. I resolved any conflicts that arose during the rebase process by modifying the code in the `speed_score.js` file to work with the changes made in the `main` branch.
+### Rebase Description
+Not applicable.
 
-### Cherry Pick Description (Delete if not applicable)
-Example: In this branch, I cherry-picked the commit `5678901` from the `feature/new-feature` branch into the `main` branch. The commit added a new feature to calculate speed score. I resolved any conflicts that arose during the cherry-pick process by modifying the code in the `speed_score.js` file to work with the changes made in the `main` branch.
+### Cherry Pick Description
+This branch is intended for cherry-picking the browser history feature into `main`. The commit can be applied independently without requiring a full merge.
