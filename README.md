@@ -11,14 +11,14 @@
 
 ## Commits
 
-| Name | # Commits | # Lines Changed | Avg. Lines/Commit
-| --------- |-----------|-----------------|----
-| Name 1 | 3         | 80              | 26.67
-| Name 2 | 8         | 20              | 2.5
-| Name 3 | 5         | 10              | 2
-| Name 4 | 3         | 5               | 1.67
-| Name 5 | 2         | 2               | 1
-| **Totals** | **30**    | **87**          | **2.9**
+| Name        | # Commits | # Lines Changed | Avg. Lines/Commit
+|-------------|-----------|-----------------|----
+| Daniel Kish | 11        | 626             | 56.909
+| Name 2      | 8         | 20              | 2.5
+| Name 3      | 5         | 10              | 2
+| Name 4      | 3         | 5               | 1.67
+| Name 5      | 2         | 2               | 1
+| **Totals**  | **30**    | **87**          | **2.9**
 
 
 ## Merge Conflicts Resolved
