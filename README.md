@@ -5,7 +5,7 @@
 ## Team Members
 - Daniel Kish (Danielhk832)
 - Wei-Ying Huang (William-HuangWY)
-- Name 3 (GitHub ID 3)
+- Gerald Hendrix (Gerald Hendrix)
 
 ## Commits
 
@@ -13,8 +13,8 @@
 |----------------|-----------|-----------------|----
 | Daniel Kish    | 11        | 626             | 56.909
 | Wei-Ying Huang | 12        | 387             | 32.25
-| Name 3         | 5         | 10              | 2
-| **Totals**     | **XX**    | **XXX**         | **XX**
+| Gerald Hendrix | 24        | 120             | 5.2
+| **Totals**     | 47        | 1133            | 94.359
 
 
 ## Merge Conflicts Resolved
@@ -22,18 +22,18 @@
 |----------------|----------------| ---------------
 | Daniel Kish    | 1           | `feature/mode_tab_setup`
 | Wei-Ying Huang | 1           | `Apply style for mode tabs`
-| Name 3         | 1           | `feature/new-feature`
+| Gerald Hendrix |             | 
 
 ## Rebases
 | Name           | # Rebases | Within Branch
 |----------------|-----------| ---------------
 | Daniel Kish    | 1         | `feature/mode_tabs_mode_actions_index_update`
 | Wei-Ying Huang | 1         | `feature/global-css-class`
-| Name 3         | 1         | `feature/new-feature`
+| Gerald Hendrix |           | 
 
 ## Cherry Picks
 | Name           | # Cherry Picks | From Branch
 |----------------|----------------| ---------------
 | Daniel Kish    | 1              | `feature/mode_tabs_mode_actions_index_update`
 | Wei-Ying Huang | 1              | `Feature-side-menu`
-| Name 3         | 1              | `feature/new-feature`
+| Gerald Hendrix |                | 
